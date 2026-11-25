@@ -1,0 +1,341 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@layer components {
+  .page {
+    @apply px-4 pb-4 pt-8;
+  }
+
+  .page-content {
+    @apply mx-auto w-full max-w-7xl;
+  }
+}
+
+@theme inline {
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  /* Brand scales (fixed hex, independent of theme) */
+  --color-primary-50: #ecfdf5;
+  --color-primary-100: #d1fae5;
+  --color-primary-200: #a7f3d0;
+  --color-primary-300: #6ee7b7;
+  --color-primary-400: #34d399;
+  --color-primary-500: #10b981;
+  --color-primary-600: #059669;
+  --color-primary-700: #047857;
+  --color-primary-800: #065f46;
+  --color-primary-900: #064e3b;
+
+  --color-secondary-500: #14b8a6;
+  --color-secondary-600: #0d9488;
+
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+
+  /* RCUK "humane" theme brand palette (from rcuk.org.uk) */
+  --color-rc-red: #cc0102;
+  --color-rc-navy: #010165;
+  --color-rc-gold: #f89d35;
+  --color-rc-grey: #313131;
+  --color-rc-light: #f7f7f7;
+
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  :root {
+    --background: oklch(1 0 0);
+    --foreground: oklch(0.145 0 0);
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.145 0 0);
+    --popover: oklch(1 0 0);
+    --popover-foreground: oklch(0.145 0 0);
+    --primary: oklch(0.205 0 0);
+    --primary-foreground: oklch(0.985 0 0);
+    --secondary: oklch(0.97 0 0);
+    --secondary-foreground: oklch(0.205 0 0);
+    --muted: oklch(0.97 0 0);
+    --muted-foreground: oklch(0.556 0 0);
+    --accent: oklch(0.97 0 0);
+    --accent-foreground: oklch(0.205 0 0);
+    --destructive: oklch(0.577 0.245 27.325);
+    --border: oklch(0.922 0 0);
+    --input: oklch(0.922 0 0);
+    --ring: oklch(0.708 0 0);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --radius: 0.625rem;
+    --sidebar: oklch(0.985 0 0);
+    --sidebar-foreground: oklch(0.145 0 0);
+    --sidebar-primary: oklch(0.205 0 0);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.97 0 0);
+    --sidebar-accent-foreground: oklch(0.205 0 0);
+    --sidebar-border: oklch(0.922 0 0);
+    --sidebar-ring: oklch(0.708 0 0);
+  }
+
+  .dark {
+    --background: oklch(0.145 0 0);
+    --foreground: oklch(0.985 0 0);
+    --card: oklch(0.205 0 0);
+    --card-foreground: oklch(0.985 0 0);
+    --popover: oklch(0.205 0 0);
+    --popover-foreground: oklch(0.985 0 0);
+    --primary: oklch(0.922 0 0);
+    --primary-foreground: oklch(0.205 0 0);
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.269 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    --border: oklch(1 0 0 / 10%);
+    --input: oklch(1 0 0 / 15%);
+    --ring: oklch(0.556 0 0);
+    --chart-1: oklch(0.87 0 0);
+    --chart-2: oklch(0.556 0 0);
+    --chart-3: oklch(0.439 0 0);
+    --chart-4: oklch(0.371 0 0);
+    --chart-5: oklch(0.269 0 0);
+    --sidebar: oklch(0.205 0 0);
+    --sidebar-foreground: oklch(0.985 0 0);
+    --sidebar-primary: oklch(0.488 0.243 264.376);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.269 0 0);
+    --sidebar-accent-foreground: oklch(0.985 0 0);
+    --sidebar-border: oklch(1 0 0 / 10%);
+    --sidebar-ring: oklch(0.556 0 0);
+  }
+
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  html {
+    @apply font-sans;
+  }
+}
+
+/* ------------------------------------------------------------------ *
+ * WordPress (humane theme) content rendering.                         *
+ * Recreates Poppins typography, red-accent headings and humane        *
+ * section spacing for imported KingComposer HTML bodies.              *
+ * ------------------------------------------------------------------ */
+@layer components {
+  .wp-content {
+    @apply text-base leading-relaxed text-neutral-700;
+  }
+  .wp-content h1 {
+    @apply mb-4 mt-8 text-3xl font-bold text-rc-navy;
+  }
+  .wp-content h2 {
+    @apply mb-3 mt-7 text-2xl font-bold text-rc-navy;
+  }
+  .wp-content h3 {
+    @apply mb-2 mt-6 text-xl font-semibold text-rc-grey;
+  }
+  .wp-content h4 {
+    @apply mb-2 mt-5 text-lg font-semibold text-rc-grey;
+  }
+  .wp-content p {
+    @apply my-4 leading-relaxed;
+  }
+  .wp-content a {
+    @apply text-rc-red underline underline-offset-2 hover:text-rc-navy;
+  }
+  .wp-content ul {
+    @apply my-4 list-disc space-y-1 pl-6;
+  }
+  .wp-content ol {
+    @apply my-4 list-decimal space-y-1 pl-6;
+  }
+  .wp-content img {
+    @apply my-4 h-auto max-w-full rounded;
+  }
+  .wp-content figure {
+    @apply my-4;
+  }
+  .wp-content blockquote {
+    @apply my-5 border-l-4 border-rc-red pl-4 italic text-neutral-600;
+  }
+  .wp-content table {
+    @apply my-4 w-full border-collapse text-sm;
+  }
+  .wp-content th,
+  .wp-content td {
+    @apply border border-neutral-200 px-3 py-2 text-left;
+  }
+  .wp-content hr {
+    @apply my-6 border-neutral-200;
+  }
+  /* The importer strips plugin wrappers; align WP's bootstrap containers to
+     the site's max width so full-bleed rows don't overflow the layout. */
+  .wp-content .container,
+  .wp-content .row {
+    @apply mx-auto w-full max-w-none;
+  }
+  .wp-content video,
+  .wp-content iframe {
+    @apply my-4 max-w-full;
+  }
+}
+
+/* ------------------------------------------------------------------ *
+ * KingComposer / Bootstrap grid layout for imported page-builder HTML.
+ * Makes kc_row columns + bootstrap col-* flow side by side on desktop
+ * and stack on mobile, so migrated page bodies resemble the humane grid.
+ * ------------------------------------------------------------------ */
+@layer components {
+  .wp-content .kc-row-container,
+  .wp-content .kc_row > .container,
+  .wp-content .container {
+    margin-inline: auto;
+    width: 100%;
+    max-width: 1140px;
+    padding-inline: 1rem;
+  }
+
+  .wp-content .kc-wrap-columns,
+  .wp-content .kc_row .row,
+  .wp-content .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-inline: -0.75rem;
+  }
+
+  .wp-content .kc_column,
+  .wp-content .col-sm-3,
+  .wp-content .col-sm-4,
+  .wp-content .col-sm-6,
+  .wp-content .col-sm-8,
+  .wp-content .col-sm-9,
+  .wp-content .col-sm-12,
+  .wp-content .col-md-3,
+  .wp-content .col-md-4,
+  .wp-content .col-md-6,
+  .wp-content .col-md-7,
+  .wp-content .col-md-8,
+  .wp-content .col-md-9,
+  .wp-content .col-md-12,
+  .wp-content .col-lg-3,
+  .wp-content .col-lg-4,
+  .wp-content .col-lg-6,
+  .wp-content .col-lg-8,
+  .wp-content .col-lg-12 {
+    width: 100%;
+    padding-inline: 0.75rem;
+    box-sizing: border-box;
+  }
+
+  @media (min-width: 768px) {
+    .wp-content .kc_col-sm-3 { width: 25%; }
+    .wp-content .kc_col-sm-4, .wp-content .col-md-3, .wp-content .col-md-4 { width: 33.3333%; }
+    .wp-content .kc_col-sm-6, .wp-content .col-md-6, .wp-content .col-sm-6 { width: 50%; }
+    .wp-content .kc_col-sm-8, .wp-content .col-md-7, .wp-content .col-md-8 { width: 58.3333%; }
+    .wp-content .kc_col-sm-9, .wp-content .col-md-9 { width: 75%; }
+    .wp-content .kc_col-sm-12, .wp-content .col-md-12 { width: 100%; }
+  }
+
+  @media (min-width: 992px) {
+    .wp-content .col-lg-3 { width: 25%; }
+    .wp-content .col-lg-4 { width: 33.3333%; }
+    .wp-content .col-lg-6 { width: 50%; }
+    .wp-content .col-lg-8 { width: 66.6666%; }
+    .wp-content .col-lg-12 { width: 100%; }
+  }
+
+  /* Humane section title with the red highlight word */
+  .wp-content .section-title h2 span,
+  .wp-content .sec-title-highlight { color: #cc0102; }
+
+  /* Card grids produced by the theme */
+  .wp-content .news-style-two,
+  .wp-content .default-event-box,
+  .wp-content .cause-box-two,
+  .wp-content .default-cause-box {
+    @apply mb-6 overflow-hidden rounded border border-neutral-200 bg-white shadow-sm;
+  }
+  .wp-content .news-style-two img,
+  .wp-content .default-event-box img,
+  .wp-content .cause-box-two img {
+    @apply m-0 w-full;
+  }
+
+  /* Non-functional migrated forms degrade gracefully instead of erroring */
+  .wp-content form.wp-block, .wp-content .wpcf7, .wp-content #charitable-donation-form {
+    @apply my-4 rounded border border-neutral-200 bg-neutral-50 p-4;
+  }
+  .wp-content input[type="text"],
+  .wp-content input[type="email"],
+  .wp-content input[type="tel"],
+  .wp-content input[type="number"],
+  .wp-content textarea,
+  .wp-content select {
+    @apply mb-3 w-full rounded border border-neutral-300 px-3 py-2 text-sm;
+  }
+
+  /* Buttons produced by the page builder */
+  .wp-content .btn,
+  .wp-content .slide-btn {
+    @apply inline-block rounded bg-rc-red px-5 py-2.5 text-sm font-semibold text-white no-underline transition hover:brightness-95;
+  }
+}

@@ -1,0 +1,633 @@
+[
+  {
+    "slug": "rohingya-celebration-day",
+    "wpId": 4898,
+    "title": "Rohingya Celebration Day",
+    "path": "/events/rohingya-celebration-day",
+    "link": "https://rcuk.org.uk/event/rohingya-celebration-day/",
+    "start": "2024-01-04 11:30:00",
+    "end": "2024-01-04 12:30:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "celebration-giving",
+    "wpId": 3516,
+    "title": "Rohingya Eid Party – GoConnect",
+    "path": "/events/celebration-giving",
+    "link": "https://rcuk.org.uk/event/celebration-giving/",
+    "start": "2024-04-20 11:30:00",
+    "end": "2024-04-20 14:30:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/04/RCUK-G0Connect-Event.jpg",
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "international-day-of-solidarity-with-the-rohingya-people",
+    "wpId": 4900,
+    "title": "International Day of Solidarity with the Rohingya People",
+    "path": "/events/international-day-of-solidarity-with-the-rohingya-people",
+    "link": "https://rcuk.org.uk/event/international-day-of-solidarity-with-the-rohingya-people/",
+    "start": "2024-06-03 12:00:00",
+    "end": "2024-06-03 13:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      },
+      {
+        "name": "Networking and Collaboration",
+        "slug": "networking-and-collaboration"
+      }
+    ]
+  },
+  {
+    "slug": "we-are-rohingya-our-traditions",
+    "wpId": 5351,
+    "title": "We Are Rohingya – Our Traditions",
+    "path": "/events/we-are-rohingya-our-traditions",
+    "link": "https://rcuk.org.uk/event/we-are-rohingya-our-traditions/",
+    "start": "2024-06-08 13:30:00",
+    "end": "2024-06-08 16:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/06/RCUK-Partnership-with-Kala-Sangam.jpg",
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "refugee-week-june-17-june-24",
+    "wpId": 4902,
+    "title": "Refugee Week June 17 – June 24",
+    "path": "/events/refugee-week-june-17-june-24",
+    "link": "https://rcuk.org.uk/event/refugee-week-june-17-june-24/",
+    "start": "2024-06-17 10:00:00",
+    "end": "2024-06-23 17:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      },
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "world-refugee-day",
+    "wpId": 5021,
+    "title": "World Refugee Day",
+    "path": "/events/world-refugee-day",
+    "link": "https://rcuk.org.uk/event/world-refugee-day/",
+    "start": "2024-06-20 00:00:00",
+    "end": "2024-06-20 23:59:59",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Awareness",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "we-are-rohingya-our-traditions-2",
+    "wpId": 5353,
+    "title": "We Are Rohingya – Our Traditions",
+    "path": "/events/we-are-rohingya-our-traditions-2",
+    "link": "https://rcuk.org.uk/event/we-are-rohingya-our-traditions-2/",
+    "start": "2024-06-22 13:00:00",
+    "end": "2024-06-22 16:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/06/RCUK-Partnership-with-Kala-Sangam.jpg",
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "we-are-rohingya-our-traditions-3",
+    "wpId": 5355,
+    "title": "We Are Rohingya – Our Traditions",
+    "path": "/events/we-are-rohingya-our-traditions-3",
+    "link": "https://rcuk.org.uk/event/we-are-rohingya-our-traditions-3/",
+    "start": "2024-07-06 13:30:00",
+    "end": "2024-07-06 16:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/06/RCUK-Partnership-with-Kala-Sangam.jpg",
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      }
+    ]
+  },
+  {
+    "slug": "save-rohingya-lives-bradford-uk-demonstration-against-genocide-in-arakan-myanmar",
+    "wpId": 5494,
+    "title": "Save Rohingya Lives: Bradford (UK) Demonstration Against Genocide in Arakan, Myanmar",
+    "path": "/events/save-rohingya-lives-bradford-uk-demonstration-against-genocide-in-arakan-myanmar",
+    "link": "https://rcuk.org.uk/event/save-rohingya-lives-bradford-uk-demonstration-against-genocide-in-arakan-myanmar/",
+    "start": "2024-08-24 13:00:00",
+    "end": "2024-08-24 14:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/08/Facebook.png",
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "rohingya-genocide-remembrance-day",
+    "wpId": 4896,
+    "title": "Rohingya Genocide Remembrance Day",
+    "path": "/events/rohingya-genocide-remembrance-day",
+    "link": "https://rcuk.org.uk/event/rohingya-genocide-remembrance-day/",
+    "start": "2024-08-25 11:00:00",
+    "end": "2024-08-25 12:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": "/wp-media/2024/04/Genocide-Event-2024.jpg",
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "exploring-scarborough-a-rohingya-family-adventure",
+    "wpId": 5513,
+    "title": "Exploring Scarborough: A Rohingya Family Adventure",
+    "path": "/events/exploring-scarborough-a-rohingya-family-adventure",
+    "link": "https://rcuk.org.uk/event/exploring-scarborough-a-rohingya-family-adventure/",
+    "start": "2024-08-31 08:00:00",
+    "end": "2024-08-31 19:00:00",
+    "timezone": "UTC+0",
+    "cost": "£1",
+    "venue": "",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": "/wp-media/2024/08/RCUK-Event.gif",
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      }
+    ]
+  },
+  {
+    "slug": "world-mental-health-day",
+    "wpId": 4909,
+    "title": "World Mental Health Day Online Event",
+    "path": "/events/world-mental-health-day",
+    "link": "https://rcuk.org.uk/event/world-mental-health-day/",
+    "start": "2024-10-10 10:00:00",
+    "end": "2024-10-10 11:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Awareness",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": "/wp-media/2024/04/RCUK-Event-for-World-Mentel-Health.png",
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "human-rights-day",
+    "wpId": 4906,
+    "title": "Human Rights Day",
+    "path": "/events/human-rights-day",
+    "link": "https://rcuk.org.uk/event/human-rights-day/",
+    "start": "2024-12-10 00:00:00",
+    "end": "2024-12-10 23:59:59",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Awareness",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "public-consultation-rohingya-memorial-stone-design",
+    "wpId": 6148,
+    "title": "Public Consultation: Rohingya Memorial Stone Design",
+    "path": "/events/public-consultation-rohingya-memorial-stone-design",
+    "link": "https://rcuk.org.uk/event/public-consultation-rohingya-memorial-stone-design/",
+    "start": "2025-02-11 12:00:00",
+    "end": "2025-02-11 14:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": []
+  },
+  {
+    "slug": "rohingya-womens-day-celebration",
+    "wpId": 6210,
+    "title": "Rohingya Women’s Day Celebration",
+    "path": "/events/rohingya-womens-day-celebration",
+    "link": "https://rcuk.org.uk/event/rohingya-womens-day-celebration/",
+    "start": "2025-03-08 14:00:00",
+    "end": "2025-03-08 15:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      }
+    ]
+  },
+  {
+    "slug": "rcuk-iftar-day-fostering-interfaith-solidarity-during-ramadan-19th-march-2025",
+    "wpId": 6154,
+    "title": "RCUK Iftar Day: Fostering Interfaith Solidarity During Ramadan – 19th March 2025",
+    "path": "/events/rcuk-iftar-day-fostering-interfaith-solidarity-during-ramadan-19th-march-2025",
+    "link": "https://rcuk.org.uk/event/rcuk-iftar-day-fostering-interfaith-solidarity-during-ramadan-19th-march-2025/",
+    "start": "2025-03-19 05:00:00",
+    "end": "2025-03-19 19:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": []
+  },
+  {
+    "slug": "rohingya-lobby-day-evening-reception-at-uk-parliament",
+    "wpId": 6340,
+    "title": "Rohingya Lobby Day & Evening Reception at UK Parliament",
+    "path": "/events/rohingya-lobby-day-evening-reception-at-uk-parliament",
+    "link": "https://rcuk.org.uk/event/rohingya-lobby-day-evening-reception-at-uk-parliament/",
+    "start": "2025-05-06 16:00:00",
+    "end": "2025-05-06 18:30:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Grimond Room, Portcullis House",
+    "address": "Portcullis House,",
+    "city": "London",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "international-day-of-solidarity-with-the-rohingya-people-2",
+    "wpId": 6150,
+    "title": "International Day of Solidarity with the Rohingya people",
+    "path": "/events/international-day-of-solidarity-with-the-rohingya-people-2",
+    "link": "https://rcuk.org.uk/event/international-day-of-solidarity-with-the-rohingya-people-2/",
+    "start": "2025-06-03 12:30:00",
+    "end": "2025-06-03 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": []
+  },
+  {
+    "slug": "home-hope-and-heritage-refugee-stories-in-bradford-bradfords-refugee-week-2025-rw25",
+    "wpId": 6326,
+    "title": "Home, Hope, and Heritage – Refugee Stories in Bradford – Bradford’s Refugee Week 2025 (RW25)",
+    "path": "/events/home-hope-and-heritage-refugee-stories-in-bradford-bradfords-refugee-week-2025-rw25",
+    "link": "https://rcuk.org.uk/event/home-hope-and-heritage-refugee-stories-in-bradford-bradfords-refugee-week-2025-rw25/",
+    "start": "2025-06-21 12:30:00",
+    "end": "2025-06-21 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Cultural Celebrations",
+        "slug": "cultural-celebrations"
+      }
+    ]
+  },
+  {
+    "slug": "rohingya-genocide-commemoration-day-eight-years-on",
+    "wpId": 6146,
+    "title": "Rohingya Genocide Commemoration Day – Eight Years On",
+    "path": "/events/rohingya-genocide-commemoration-day-eight-years-on",
+    "link": "https://rcuk.org.uk/event/rohingya-genocide-commemoration-day-eight-years-on/",
+    "start": "2025-08-25 12:00:00",
+    "end": "2025-08-25 13:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": []
+  },
+  {
+    "slug": "rcuk-annual-general-meeting-agm-2025",
+    "wpId": 6144,
+    "title": "RCUK Annual General Meeting (AGM) – 2025",
+    "path": "/events/rcuk-annual-general-meeting-agm-2025",
+    "link": "https://rcuk.org.uk/event/rcuk-annual-general-meeting-agm-2025/",
+    "start": "2025-09-24 11:00:00",
+    "end": "2025-09-24 14:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": []
+  },
+  {
+    "slug": "world-mental-health-day-online-event",
+    "wpId": 6328,
+    "title": "World Mental Health Day 2025 — Online Event",
+    "path": "/events/world-mental-health-day-online-event",
+    "link": "https://rcuk.org.uk/event/world-mental-health-day-online-event/",
+    "start": "2025-10-10 11:00:00",
+    "end": "2025-10-10 12:00:00",
+    "timezone": "UTC+0",
+    "cost": "Free",
+    "venue": "Online",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Health and Wellness",
+        "slug": "health-and-wellness"
+      }
+    ]
+  },
+  {
+    "slug": "advancing-rohingya-justice-iimm-official-visit-to-the-bradford-community",
+    "wpId": 6897,
+    "title": "IIMM Official Visit – Bradford Rohingya Community Reception and Iftar",
+    "path": "/events/advancing-rohingya-justice-iimm-official-visit-to-the-bradford-community",
+    "link": "https://rcuk.org.uk/event/advancing-rohingya-justice-iimm-official-visit-to-the-bradford-community/",
+    "start": "2026-03-06 16:30:00",
+    "end": "2026-03-06 18:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      },
+      {
+        "name": "Social Gathering",
+        "slug": "social-gathering"
+      }
+    ]
+  },
+  {
+    "slug": "international-womens-day-2026",
+    "wpId": 6900,
+    "title": "International Women’s Day 2026",
+    "path": "/events/international-womens-day-2026",
+    "link": "https://rcuk.org.uk/event/international-womens-day-2026/",
+    "start": "2026-03-08 12:30:00",
+    "end": "2026-03-08 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "international-day-of-solidarity-with-the-rohingya-people-3",
+    "wpId": 6895,
+    "title": "International Day of Solidarity with the Rohingya People",
+    "path": "/events/international-day-of-solidarity-with-the-rohingya-people-3",
+    "link": "https://rcuk.org.uk/event/international-day-of-solidarity-with-the-rohingya-people-3/",
+    "start": "2026-06-03 12:00:00",
+    "end": "2026-06-03 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "refugee-week-2026-celebrating-courage-and-community",
+    "wpId": 6893,
+    "title": "Refugee Week 2026: Celebrating Courage and Community",
+    "path": "/events/refugee-week-2026-celebrating-courage-and-community",
+    "link": "https://rcuk.org.uk/event/refugee-week-2026-celebrating-courage-and-community/",
+    "start": "2026-06-20 12:00:00",
+    "end": "2026-06-20 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Awareness",
+        "slug": "awareness"
+      }
+    ]
+  },
+  {
+    "slug": "rohingya-genocide-commemoration-day-remembering-the-past-protecting-the-future",
+    "wpId": 6891,
+    "title": "Rohingya Genocide Commemoration Day: Remembering the Past, Protecting the Future",
+    "path": "/events/rohingya-genocide-commemoration-day-remembering-the-past-protecting-the-future",
+    "link": "https://rcuk.org.uk/event/rohingya-genocide-commemoration-day-remembering-the-past-protecting-the-future/",
+    "start": "2026-08-25 12:00:00",
+    "end": "2026-08-25 13:30:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Bradford",
+    "address": "",
+    "city": "Bradford",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Human Rights &amp; Commemoration",
+        "slug": "human-rights-commemoration"
+      }
+    ]
+  },
+  {
+    "slug": "world-mental-health-day-online-event-2",
+    "wpId": 6889,
+    "title": "World Mental Health Day (Online Event)",
+    "path": "/events/world-mental-health-day-online-event-2",
+    "link": "https://rcuk.org.uk/event/world-mental-health-day-online-event-2/",
+    "start": "2026-10-10 12:00:00",
+    "end": "2026-10-10 13:00:00",
+    "timezone": "UTC+0",
+    "cost": "",
+    "venue": "Online",
+    "address": "",
+    "city": "",
+    "description": "",
+    "image": null,
+    "categories": [
+      {
+        "name": "Health and Wellness",
+        "slug": "health-and-wellness"
+      }
+    ]
+  }
+]
